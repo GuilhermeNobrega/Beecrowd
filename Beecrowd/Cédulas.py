@@ -1,4 +1,4 @@
-x = int(input())
+'''x = int(input())
 
 cem = (x//100)
 x = x%100
@@ -21,8 +21,8 @@ print(f"{dois} nota(s) de R$ 2,00")
 um = x//1
 x = x%1
 print(f"{um} nota(s) de R$ 1,00")
-#Jeito correto..
-x = int(input())
+#Jeito correto..'''
+x = float(input())
 print(x)
 cem = (x//100)
 x = x%100
